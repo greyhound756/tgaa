@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "src": "/photos/hero-2400.jpg",
+    "srcSet": "/photos/hero-1080.jpg 1080w, /photos/hero-2400.jpg 2400w",
+    "alt": "Glass office towers rising into a dramatic cloudy sky",
+    "source": "https://images.unsplash.com/photo-1448357019934-caa4696bb949 (via github.com/ServiceStack/images)"
+  },
+  "steelFrame": {
+    "src": "/photos/steelFrame-2400.jpg",
+    "srcSet": "/photos/steelFrame-1080.jpg 1080w, /photos/steelFrame-2400.jpg 2400w",
+    "alt": "Glass and steel facade grid of two high-rise buildings, seen from below",
+    "source": "https://images.unsplash.com/photo-1431576901776-e539bd916ba2 (via github.com/ServiceStack/images)"
+  },
+  "blueprints": {
+    "src": "/photos/blueprints-2400.jpg",
+    "srcSet": "/photos/blueprints-1080.jpg 1080w, /photos/blueprints-2400.jpg 2400w",
+    "alt": "Geometric white facade detail of a modern building",
+    "source": "https://images.unsplash.com/photo-1476891626313-2cecb3820a69 (via github.com/ServiceStack/images)"
+  },
+  "valves": {
+    "src": "/photos/valves-2400.jpg",
+    "srcSet": "/photos/valves-1080.jpg 1080w, /photos/valves-2400.jpg 2400w",
+    "alt": "White modern building with cantilevered volumes",
+    "source": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8 (via github.com/ServiceStack/images)"
+  },
+  "pipework": {
+    "src": "/photos/pipework-2400.jpg",
+    "srcSet": "/photos/pipework-1080.jpg 1080w, /photos/pipework-2400.jpg 2400w",
+    "alt": "Glass curtain-wall system of a modern building",
+    "source": "https://images.unsplash.com/photo-1483094035713-218a81c0d971 (via github.com/ServiceStack/images)"
+  },
+  "plantRoom": {
+    "src": "/photos/plantRoom-2400.jpg",
+    "srcSet": "/photos/plantRoom-1080.jpg 1080w, /photos/plantRoom-2400.jpg 2400w",
+    "alt": "Faceted glass facade of a modern building",
+    "source": "https://images.unsplash.com/photo-1481026469463-66327c86e544 (via github.com/ServiceStack/images)"
+  },
+  "factoryInterior": {
+    "src": "/photos/factoryInterior-2400.jpg",
+    "srcSet": "/photos/factoryInterior-1080.jpg 1080w, /photos/factoryInterior-2400.jpg 2400w",
+    "alt": "Curved metal-clad facade of a large building against a blue sky",
+    "source": "https://images.unsplash.com/photo-1507646278763-8b57d6bf6369 (via github.com/ServiceStack/images)"
+  },
+  "officeFacade": {
+    "src": "/photos/officeFacade-2400.jpg",
+    "srcSet": "/photos/officeFacade-1080.jpg 1080w, /photos/officeFacade-2400.jpg 2400w",
+    "alt": "Glass office towers seen from below against a blue sky",
+    "source": "https://images.unsplash.com/photo-1462899006636-339e08d1844e (via github.com/ServiceStack/images)"
+  },
+  "warehouse": {
+    "src": "/photos/warehouse-2400.jpg",
+    "srcSet": "/photos/warehouse-1080.jpg 1080w, /photos/warehouse-2400.jpg 2400w",
+    "alt": "Long, low white building with a curved roof",
+    "source": "https://images.unsplash.com/photo-1508141610389-6253d977b87e (via github.com/ServiceStack/images)"
+  },
+  "crane": {
+    "src": "/photos/crane-2400.jpg",
+    "srcSet": "/photos/crane-1080.jpg 1080w, /photos/crane-2400.jpg 2400w",
+    "alt": "Stepped white facade of a modern building against the sky",
+    "source": "https://images.unsplash.com/photo-1460574283810-2aab119d8511 (via github.com/ServiceStack/images)"
+  },
+  "rebar": {
+    "src": "/photos/rebar-2400.jpg",
+    "srcSet": "/photos/rebar-1080.jpg 1080w, /photos/rebar-2400.jpg 2400w",
+    "alt": "Curved glass and metal facade framing the sky",
+    "source": "https://images.unsplash.com/photo-1473197411253-0151b2882b52 (via github.com/ServiceStack/images)"
+  },
+  "frameWorker": {
+    "src": "/photos/frameWorker-2400.jpg",
+    "srcSet": "/photos/frameWorker-1080.jpg 1080w, /photos/frameWorker-2400.jpg 2400w",
+    "alt": "High-rise buildings disappearing into fog, seen from below",
+    "source": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e (via github.com/ServiceStack/images)"
+  },
+  "craneTwilight": {
+    "src": "/photos/craneTwilight-2400.jpg",
+    "srcSet": "/photos/craneTwilight-1080.jpg 1080w, /photos/craneTwilight-2400.jpg 2400w",
+    "alt": "Black-and-white concrete building corner against a black sky",
+    "source": "https://images.unsplash.com/photo-1484882918957-e9f6567be3c8 (via github.com/ServiceStack/images)"
+  },
+  "contact": {
+    "src": "/photos/contact-2400.jpg",
+    "srcSet": "/photos/contact-1080.jpg 1080w, /photos/contact-2400.jpg 2400w",
+    "alt": "Dark metal-clad building facade with a red edge against a pale sky",
+    "source": "https://images.unsplash.com/photo-1494891848038-7bd202a2afeb (via github.com/ServiceStack/images)"
+  },
+  "commissioning": {
+    "src": "/photos/commissioning-2400.jpg",
+    "srcSet": "/photos/commissioning-1080.jpg 1080w, /photos/commissioning-2400.jpg 2400w",
+    "alt": "White building with a glazed top floor against a blue sky",
+    "source": "https://images.unsplash.com/photo-1495603491717-3d3374928dc6 (via github.com/ServiceStack/images)"
+  },
+  "construction": {
+    "src": "/photos/construction-2400.jpg",
+    "srcSet": "/photos/construction-1080.jpg 1080w, /photos/construction-2400.jpg 2400w",
+    "alt": "High-rise building facade emerging from white fog",
+    "source": "https://images.unsplash.com/photo-1468325089340-2ec20e175048 (via github.com/ServiceStack/images)"
+  }
+}
